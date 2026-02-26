@@ -1,0 +1,7 @@
+/* 通用样式 - Ledger App */
+.container { padding: 24rpx; box-sizing: border-box; }
+.flex { display: flex; }
+.flex-between { display: flex; justify-content: space-between; align-items: center; }
+.text-center { text-align: center; }
+.mt { margin-top: 24rpx; }
+.mb { margin-bottom: 24rpx; }
